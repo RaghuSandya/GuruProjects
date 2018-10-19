@@ -1,0 +1,10 @@
+ChromeDriver=C:\\Users\\Baburao\\Downloads\\Compressed\\Browsers\\chromedriver_win32\\chromedriver.exe
+
+IEDriver=C:\\Users\\Baburao\\Downloads\\Compressed\\Browsers\\IEDriverServer_x64_3.5.1\\IEDriverServer (2).exe
+
+GeckoDriver=C:\\Users\\Baburao\\Downloads\\Compressed\\Browsers\\geckodriver-v0.19.0-win64\\geckodriver.exe
+
+URL=https://www.facebook.com/
+
+Username=raghusandya.raghu@gmail.com
+password=81425862510 
